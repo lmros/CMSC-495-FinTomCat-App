@@ -1,4 +1,4 @@
-# CMSC-495-FinTomCat-App
+# CMSC-495 - Group 7
 # FinTomCat-App - Phase I
 
 ## Agile Development
